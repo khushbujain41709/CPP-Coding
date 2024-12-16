@@ -1,0 +1,10 @@
+It is used in the questions where window or subarray of size k is mentioned.
+Subarray is continuous part of array.
+Subarray is known as window.
+Last window starts from n-k index.
+
+for(int i = 0;i<n-k+1;i++){
+    for(int j = i;j<i+k;j++){
+    }
+}
+

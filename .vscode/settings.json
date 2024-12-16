@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "iostream": "cpp",
+        "valarray": "cpp",
+        "ostream": "cpp",
+        "ratio": "cpp",
+        "string": "cpp"
+    }
+}
